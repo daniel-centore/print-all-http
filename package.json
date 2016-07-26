@@ -1,0 +1,22 @@
+{
+  "name": "print-all-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-centore/print-all-http.git"
+  },
+  "author": "daniel-centore",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/daniel-centore/print-all-http/issues"
+  },
+  "homepage": "https://github.com/daniel-centore/print-all-http#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1"
+  }
+}
